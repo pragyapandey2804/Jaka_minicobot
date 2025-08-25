@@ -28,7 +28,7 @@ The **Jaka MiniCobot** is a compact collaborative robot designed for precision t
 - **Weight:** 9 kg  
 - **Input voltage:** DC 30-60V
 <p align="center">
-  <img src="INSERT_IMAGE_LINK_HERE" alt="Jaka MiniCobot" width="400"/>
+  <img src="Screenshot 2025-08-25 142507.png" alt="Jaka MiniCobot" width="400"/>
 </p>  
 
 Applications include small parts assembly, electronics handling, laboratory automation, and education/training.  
@@ -52,6 +52,10 @@ The Jaka MiniCobot is a **6-axis articulated robot arm**, which means:
 | J6           | -360 ~ +360   | 180             |
 |Max TCP speed |      -        | 1.5 m/s         |
 
+<p align="center">
+  <img src="Screenshot 2025-08-25 142751.png" alt="Motion Paths of Jaka MiniCobot" width="600"/>
+</p> 
+
 ## 🔩 Motion Study  
 The Jaka MiniCobot provides full 6-DOF control, enabling precise and flexible movements.  
 
@@ -61,11 +65,7 @@ The Jaka MiniCobot provides full 6-DOF control, enabling precise and flexible mo
   3. **Circular Interpolation (C-Move):** The end-effector moves along a defined arc or circle, useful for tasks like contour following or welding.  
 - Each motion type was tested under different speeds and payloads to evaluate performance, smoothness, and repeatability.  
 - Observations included minor deviations in path accuracy at higher speeds, emphasizing the trade-off between speed and precision.  
-- These studies help determine the optimal motion planning method for specific tasks, balancing efficiency and accuracy.  
-
-<p align="center">
-  <img src="INSERT_JOINT_DIAGRAM" alt="Motion Paths of Jaka MiniCobot" width="600"/>
-</p>  
+- These studies help determine the optimal motion planning method for specific tasks, balancing efficiency and accuracy.   
 
 
 ## 🖥️ Software & UI  
@@ -100,7 +100,7 @@ The Jaka MiniCobot allows defining positions (points) for tasks either through t
 - This method allows intuitive teaching of points without manually entering coordinates and is especially useful for tasks where exact values are difficult to calculate.
 
 <p align="center">
-  <img src="INSERT_FREE_MODE_IMAGE" alt="Teaching Points in Free Mode" width="500"/>
+  <img src="Screenshot 2025-08-25 142806.png" alt="Free and teach button at the flange" width="500"/>
 </p>  
 
 > ✅ **Tip:** You can combine both methods: teach complex positions by hand and fine-tune coordinates manually for higher precision.
