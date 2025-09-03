@@ -76,7 +76,7 @@ The Jaka MiniCobot is programmed and controlled using the **Jaka APP** interface
 - Supports coordinate frame definition, trajectory planning, and gripper integration  
 
 <p align="center">
-  <img src="INSERT_UI_SCREENSHOT_HERE" alt="Jaka App UI" width="600"/>
+  <img src="jaka_ui.png" alt="Jaka App UI" width="600"/>
 </p>  
 
 
