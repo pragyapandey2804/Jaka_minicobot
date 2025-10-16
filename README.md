@@ -161,10 +161,8 @@ The pneumatic actuation required additional hardware for integration:
 - **SMPC Connection:** Interfaced between the Jaka MiniCobot control signals and the solenoid valve.  
 - **Air Tubing & Fittings:** Connected the compressed air source to the valve and the gripper.  
 
-<p align="center">
-  <img src="INSERT_VALVE_IMAGE" alt="Solenoid Valve for Pneumatic Gripper" width="400"/>  
-  <br>  
-  <img src="INSERT_SMPC_CONNECTION_IMAGE" alt="SMPC Connection for Pneumatic Gripper" width="400"/>  
+<p align="center"> 
+  <img src="SMPC_CONNECTION_IMAGE.jpg" alt="SMPC Connection and Solenoid Valve for Pneumatic Gripper" width="400"/>  
 </p>  
 
 > ✅ **Note:** Pneumatic grippers are ideal when speed and reliability are critical, while electric grippers are preferred when variable force control or delicate handling is required.
