@@ -180,8 +180,7 @@ Through this project, I developed a strong understanding of collaborative robot 
 - Exploring advanced applications such as human-robot collaboration and machine tending  
 
 ## 📷 Media  
-- [Video Demonstrations](https://drive.google.com/drive/folders/1717CqvTl4g32Phnu3x1bSRcFLLTB5wad?usp=sharing)
-- [Additional Images](INSERT_LINK_HERE)  
+- [Video Demonstrations and additional Images](https://drive.google.com/drive/folders/1717CqvTl4g32Phnu3x1bSRcFLLTB5wad?usp=sharing)
 
 ---
 
