@@ -151,7 +151,7 @@ A **pneumatically actuated parallel jaw gripper** was used for handling small ob
 - Suitable for small-scale automation, laboratory handling, and educational demonstrations.  
 
 <p align="center">
-  <img src="INSERT_GRIPPER_IMAGE" alt="Pneumatic Parallel Jaw Gripper attached to Jaka MiniCobot" width="500"/>
+  <img src="GRIPPER_IMAGE.jpg" alt="Pneumatic Parallel Jaw Gripper attached to Jaka MiniCobot" width="500"/>
 </p>  
 
 ### 🔌 Valve and SMPC Connection  
