@@ -112,11 +112,7 @@ One of the main tasks implemented was a **pick-and-place sequence**.
 1. Define the pick position (object location).  
 2. Define the place position (target location).  
 3. Program the trajectory using the Jaka APP.  
-4. Execute with gripper integration.  
-
-<p align="center">
-  <img src="INSERT_PICK_PLACE_SCREENSHOT_OR_GIF" alt="Pick and Place Operation" width="600"/>
-</p>  
+4. Execute with gripper integration.    
 
 ## 🌍 Coordinate Frames  
 The project also explored **coordinate systems** in robot programming:  
@@ -162,7 +158,7 @@ The pneumatic actuation required additional hardware for integration:
 - **Air Tubing & Fittings:** Connected the compressed air source to the valve and the gripper.  
 
 <p align="center"> 
-  <img src="SMPC_CONNECTION_IMAGE.jpg" alt="SMPC Connection and Solenoid Valve for Pneumatic Gripper" width="400"/>  
+  <img src="SMPC_CONNECTION_IMAGE.jpg" alt="SMPC Connection and Relay for Pneumatic Gripper" width="400"/>  
 </p>  
 
 > ✅ **Note:** Pneumatic grippers are ideal when speed and reliability are critical, while electric grippers are preferred when variable force control or delicate handling is required.
@@ -184,7 +180,7 @@ Through this project, I developed a strong understanding of collaborative robot 
 - Exploring advanced applications such as human-robot collaboration and machine tending  
 
 ## 📷 Media  
-- [Video Demonstration – Pick & Place](INSERT_LINK_HERE)  
+- [Video Demonstrations]([INSERT_LINK_HERE](https://drive.google.com/drive/folders/1717CqvTl4g32Phnu3x1bSRcFLLTB5wad?usp=sharing))  
 - [Additional Images](INSERT_LINK_HERE)  
 
 ---
